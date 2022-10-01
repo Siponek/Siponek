@@ -14,7 +14,7 @@ Genova</a>
 </div>
 <div align="left">
     - 🌱 I’m currently learning (as
-    if it will ever end) **Django, HTML, CSS, JS, Unreal**
+    if it will ever end) <b> Django, HTML, CSS, JS, Unreal </b>
 </div>    
 <div align="left">
     - 📇 All of my graphics
@@ -24,7 +24,7 @@ Genova</a>
 </div>    
 <h3 align="left">📫 Way you can reach me:</h3>
 <p align="left">
-  <div>📫 By e-mail **szinpraca@gmail.com** </div> 
+  <div>📫 By e-mail <b>szinpraca@gmail.com</b> </div> 
   <div>&emsp;&nbsp; Or on LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"
     ><img
       align="center"
