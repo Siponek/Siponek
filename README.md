@@ -17,12 +17,12 @@ Genova</a>
     if it will ever end) <b> Django, HTML, CSS, JS, Unreal </b>
 </div>    
 <div align="left">
-    - 📇 All of my graphics
+    - 🖼️ All of my <b>graphic</b>
     work available at
     <a href="https://mrice.artstation.com/" target="blank"
 >Artstation</a>
 </div>    
-<h3 align="left">📫 Way you can reach me:</h3>
+<h3 align="left">Ways you can reach me:</h3>
 <p align="left">
   <div>📫 By e-mail <b>szinpraca@gmail.com</b> </div> 
   <div>&emsp;&nbsp; Or on LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"
