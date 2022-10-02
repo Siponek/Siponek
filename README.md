@@ -17,7 +17,7 @@ TODO Custom icons for diff techs
 </div>
 <div align="left">
     - 🖼️ All of my <b>graphic</b>
-    work available is at
+    work is available is at
     <a href="https://mrice.artstation.com/" target="blank">Artstation</a>
 </div>
 <h3 align="left">Ways you can reach me:</h3>
