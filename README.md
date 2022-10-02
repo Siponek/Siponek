@@ -18,7 +18,7 @@ Genova</a>
 </div>    
 <div align="left">
     - 🖼️ All of my <b>graphic</b>
-    work available at
+    work available is at
     <a href="https://mrice.artstation.com/" target="blank"
 >Artstation</a>
 </div>    
