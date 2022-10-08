@@ -3,33 +3,37 @@
 
 TODO Custom icons for diff techs
 -->
-<h1 align="center">Hey hey People, Szymon here</h1>
+<h1 align="center" ;>Hey hey People, Szymon here</h1>
 <h3 align="center">Presently a Python Developer at Gter srl.</h3>
 
-</div align="left">
-- 🔭 I'm currently studying
-<a href="https://corsi.unige.it/en/corsi/10852" target="blank">Software Enginering Msc. at Univeristy of
-    Genova</a>
-</div>
-<div align="left">
-    - 🌱 I’m currently learning (as
-    if it will ever end) <b> Django, HTML, CSS, JS, Unreal </b>
-</div>
-<div align="left">
-    - 🖼️ All of my <b>graphic</b>
-    work is available is at
-    <a href="https://mrice.artstation.com/" target="blank">Artstation</a>
-</div>
+<ul align="left" ; style="background-color:aliceblue;padding:25px;">
+    <li align=" left">
+        🔭 I'm currently studying
+        <a href="https://corsi.unige.it/en/corsi/10852" target="blank">Software Enginering Msc. at Univeristy of
+            Genova</a>
+    </li>
+    <li align="left">
+        🌱 I’m currently learning (as
+        if it will ever end) <b> Django, HTML, CSS, JS, Unreal Engine</b>
+    </li>
+    <li align="left">
+        🖼️ All of my <b>graphic</b>
+        work is available is at
+        <a href="https://mrice.artstation.com/" target="blank">Artstation</a>
+    </li>
+</ul>
 <h3 align="left">Ways you can reach me:</h3>
-<p align="left">
-<div>📫 By e-mail <b>szinpraca@gmail.com</b> </div>
-<div>&emsp;&nbsp; Or on LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="s-zinkowicz" height="40" width="30" /></a></div>
-</p>
+<ul ; style="background-color:rgb(83, 128, 168);padding:25px;">
+    <li>📫 By e-mail <b>szinpraca@gmail.com</b> </li>
+    <li>&emsp;&nbsp; Or on LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"><img
+                align="center"
+                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                alt="s-zinkowicz" height="40" width="30" /></a></li>
+
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div align="left" ; style="background-color:aliceblue;padding:25px;">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
@@ -78,9 +82,9 @@ TODO Custom icons for diff techs
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="tensorflow_keras" width="40"
             height="40" />
     </a>
-</p>
+</div>
 <h3 align="left">Grapical Tools:</h3>
-<p>
+<div align="left" ; style="background-color:aliceblue;padding:25px;">
     <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" alt="maya"
             width="40" height="40" />
@@ -100,4 +104,4 @@ TODO Custom icons for diff techs
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="davinciresolve"
             width="40" height="40" />
     </a>
-</p>
+</div>
