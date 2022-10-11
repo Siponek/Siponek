@@ -14,7 +14,7 @@ TODO Custom icons for diff techs
     </li>
     <li align="left">
         🌱 I’m currently learning (as
-        if it will ever end) <b> Django, HTML, CSS, JS, Unreal Engine</b>
+        if it will ever end) <b> Flask, HTML, CSS, JS, Unreal Engine</b>
     </li>
     <li align="left">
         🖼️ All of my <b>graphic</b>
