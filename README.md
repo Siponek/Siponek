@@ -25,10 +25,11 @@ TODO Custom icons for diff techs
 <h3 align="left">Ways you can reach me:</h3>
 <ul ; style="background-color:rgb(83, 128, 168);padding:25px;">
     <li>📫 By e-mail <b>szinpraca@gmail.com</b> </li>
-    <li>&emsp;&nbsp; Or on LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"><img
+    <li>&emsp;&nbsp; On LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="s-zinkowicz" height="40" width="30" /></a></li>
+    <li>&emsp;&nbsp; Or by issues / pull requests :> </li>
 
 </ul>
 
