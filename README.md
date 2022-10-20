@@ -4,7 +4,7 @@
 TODO Custom icons for diff techs
 -->
 <h1 align="center" ;>Hey hey People, Szymon here</h1>
-<h3 align="center">Presently a Python Developer at Gter srl.</h3>
+<h3 align="center">Currently a Python Developer at Gter srl.</h3>
 
 <ul align="left" ; style="background-color:aliceblue;padding:25px;">
     <li align=" left">
