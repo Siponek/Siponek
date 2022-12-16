@@ -18,7 +18,7 @@ TODO Custom icons for diff techs
     </li>
     <li align="left">
         🖼️ All of my <b>graphic</b>
-        work is available is at
+        work is available at
         <a href="https://mrice.artstation.com/" target="blank">Artstation</a>
     </li>
 </ul>
