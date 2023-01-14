@@ -3,14 +3,6 @@
 
 TODO Custom icons for diff techs
 -->
-<div align="center">
-	<br>
-	<a href="https://github.com/Siponek/Siponek/blob/main/header.svg">
-		<img src="header.svg" width="800" height="400" alt="Click to see the source">
-	</a>
-	<br>
-</div>
-
 <h1 align="center" ;>Hey hey People, Szymon here</h1>
 <h3 align="center">Currently a Python Developer at Gter srl.</h3>
 
