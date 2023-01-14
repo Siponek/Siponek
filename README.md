@@ -1,12 +1,12 @@
 <!--
 **Siponek/Siponek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-TODO Custom icons for diff techs
 -->
-<h1 align="center" ;>Hey hey People, Szymon here</h1>
-<h3 align="center">Currently a Python Developer at Gter srl.</h3>
-
-<ul align="left" ; style="background-color:aliceblue;padding:25px;">
+<div align="center">
+ <br>
+  <img src="header.svg" width="800" height="400" alt="[Do not]Click to see the source">
+ <br>
+</div>
+<ul align="left" style="padding:25px">
     <li align=" left">
         🔭 I'm currently studying
         <a href="https://corsi.unige.it/en/corsi/10852" target="blank">Software Enginering Msc. at Univeristy of
@@ -23,18 +23,18 @@ TODO Custom icons for diff techs
     </li>
 </ul>
 <h3 align="left">Ways you can reach me:</h3>
-<ul ; style="background-color:rgb(83, 128, 168);padding:25px;">
+<ul style="padding:25px">
     <li>📫 By e-mail <b>szinpraca@gmail.com</b> </li>
-    <li>&emsp;&nbsp; On LinkedIn &emsp;<a href="https://linkedin.com/in/s-zinkowicz" target="blank"><img
+    <li>&emsp&nbsp On LinkedIn &emsp<a href="https://linkedin.com/in/s-zinkowicz" target="blank"><img
                 align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                 alt="s-zinkowicz" height="40" width="30" /></a></li>
-    <li>&emsp;&nbsp; Or by issues / pull requests :> </li>
+    <li>&emsp&nbsp Or by issues / pull requests :> </li>
 
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" ; style="background-color:aliceblue;padding:25px;">
+<div align="left"  style="padding:25px">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" />
@@ -85,7 +85,7 @@ TODO Custom icons for diff techs
     </a>
 </div>
 <h3 align="left">Grapical Tools:</h3>
-<div align="left" ; style="background-color:aliceblue;padding:25px;">
+<div align="left" style="padding:25px">
     <a href="https://www.autodesk.com/products/maya/overview" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maya/maya-original.svg" alt="maya"
             width="40" height="40" />
@@ -112,4 +112,3 @@ TODO Custom icons for diff techs
             Also here is a very important certificate that I have earned!
     </a>
     </div>
-    
