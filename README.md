@@ -106,3 +106,10 @@ TODO Custom icons for diff techs
             width="40" height="40" />
     </a>
 </div>
+
+<div align="center">
+        <a href="https://howhttps.works/assets/certificat-of-completion/a4.pdf?__s=4094hgvbxf8c2kxy8p94" target="_blank" rel="noreferrer">
+            Also here is a very important certificate that I have earned!
+    </a>
+    </div>
+    
