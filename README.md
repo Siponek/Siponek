@@ -3,7 +3,7 @@
 -->
 <div align="center">
  <br>
-  <img src="header.svg" width="50%" height="50%" alt="[Do not]Click to see the SVG source">
+  <img src="header.svg" width="100%" height="100%" alt="[Do not]Click to see the SVG source">
  <br>
 </div>
 <ul align="left" style="padding:25px">
