@@ -1,10 +1,8 @@
 <!--
 **Siponek/Siponek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<div align="center">
- <br>
+<div>
   <img src="header.svg" width="100%" height="100%" alt="[Do not]Click to see the SVG source">
- <br>
 </div>
 <ul align="left" style="padding:25px">
     <li align=" left">
