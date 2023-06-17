@@ -1,9 +1,12 @@
-<!--
-**Siponek/Siponek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<div>
-  <img src="header.svg" width="100%" height="100%" alt="[Do not]Click to see the SVG source">
-</div>
+<!-- Just so you know, you are ✨ _special_ ✨  :> -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siponek&layout=compact&theme=synthwave&langs_count=10&hide=pascal,fortran,cmake,html,jupyter%20notebook,matlab&size_weight=0.2&count_weight=1&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<picture>
+    <div>
+        <img src="header.svg" width="100%" height="100%" alt="[Do not]Click to see the SVG source">
+    </div>
+</picture>
 <ul align="left" style="padding:25px">
     <li align=" left">
         🔭 I'm currently studying
@@ -32,6 +35,7 @@ alt="s-zinkowicz" height="20" width="50" /></a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siponek&layout=compact&theme=synthwave&langs_count=10&hide=pascal,fortran,cmake,html,jupyter%20notebook,matlab&size_weight=0.2&count_weight=1&hide_progress=true" /></a>
 <div align="left"  style="padding:25px">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -48,7 +52,7 @@ alt="s-zinkowicz" height="20" width="50" /></a></li>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="40" height="40" />
     </a>
-		<a href="https://svelte.dev) target="_blank" rel="noreferrer">
+  <a href="https://svelte.dev) target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte"
             width="40" height="40" />
     </a>
