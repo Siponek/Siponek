@@ -9,13 +9,12 @@
 </picture>
 <ul align="left" style="padding:25px">
     <li align=" left">
-        🔭 I'm currently studying
+        🔭 I have finished
         <a href="https://corsi.unige.it/en/corsi/10852" target="blank">Software Enginering Msc. at Univeristy of
             Genova</a>
     </li>
     <li align="left">
-        🌱 I’m currently learning (as
-        if it will ever end) <b> Flask, HTML, CSS, JS, Unreal Engine</b>
+        🌱 I’m currently interested in <b> HPC, graphical pipelines, WebGPU, game engines and data-oriented design</b>
     </li>
     <li align="left">
         🖼️ All of my <b>graphic</b>
